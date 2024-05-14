@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: Poppins;
-  background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url(/images/gambar3.jpg);
+  background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url(../images/gambar3.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
